@@ -1,0 +1,14 @@
+Object subclass: #Paper
+    instanceVariableNames: ''
+    classVariableNames: ''
+    package: 'StonePaperScissors'.
+
+Object subclass: #Scissors
+    instanceVariableNames: ''
+    classVariableNames: ''
+    package: 'StonePaperScissors'.
+
+Object subclass: #Stone
+    instanceVariableNames: ''
+    classVariableNames: ''
+    package: 'StonePaperScissors'.
