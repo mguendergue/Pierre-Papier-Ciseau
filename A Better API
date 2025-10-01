@@ -1,8 +1,0 @@
-Paper >> competeWith: anotherTool 
-    onDraw: aDrawBlock 
-    onReceiverWin: aWinBlock 
-    onReceiverLose: aLoseBlock
-    ^ anotherTool playAgainstPaper: self 
-        onDraw: aDrawBlock 
-        onReceiverWin: aWinBlock 
-        onReceiverLose: aLoseBlock.
